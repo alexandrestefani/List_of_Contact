@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="titleList">Lista de Contatos:</string>
+    <string name="numTitle">Ref.</string>
+    <string name="nameTitle">Nome</string>
+    <string name="phoneTitel">Fone</string>
+</resources>
